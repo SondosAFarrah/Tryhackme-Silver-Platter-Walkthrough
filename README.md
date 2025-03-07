@@ -24,7 +24,7 @@ This repository contains a penetration testing report for the **TryHackMe - Silv
 ## 📄 Report
 
 For a detailed step-by-step breakdown, refer to the **full report** included in this repository:  
-📄 [`tryHackMe_Task.pdf`](./tryHackMe_Task.pdf)
+📄 [`tryHackMe_Task.pdf`](./tryHackMe.pdf)
 
 
 ## 🚀 Conclusion
